@@ -1,0 +1,4 @@
+1 happy
+-1 sad
+2 positive
+-2 negative
